@@ -1,0 +1,15 @@
+D:\Github\ISpace-OOP-36Mya\Lab02\obj\Debug\net8.0\Lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\ISpace-OOP-36Mya\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfoInputs.cache
+D:\Github\ISpace-OOP-36Mya\Lab02\obj\Debug\net8.0\Lab02.AssemblyInfo.cs
+D:\Github\ISpace-OOP-36Mya\Lab02\obj\Debug\net8.0\Lab02.csproj.CoreCompileInputs.cache
+D:\Github\ISpace-OOP-36Mya\Lab02\obj\Debug\net8.0\Lab02.sourcelink.json
+D:\Github\ISpace-OOP-36Mya\Lab02\bin\Debug\net8.0\Lab02.exe
+D:\Github\ISpace-OOP-36Mya\Lab02\bin\Debug\net8.0\Lab02.deps.json
+D:\Github\ISpace-OOP-36Mya\Lab02\bin\Debug\net8.0\Lab02.runtimeconfig.json
+D:\Github\ISpace-OOP-36Mya\Lab02\bin\Debug\net8.0\Lab02.dll
+D:\Github\ISpace-OOP-36Mya\Lab02\bin\Debug\net8.0\Lab02.pdb
+D:\Github\ISpace-OOP-36Mya\Lab02\obj\Debug\net8.0\Lab02.dll
+D:\Github\ISpace-OOP-36Mya\Lab02\obj\Debug\net8.0\refint\Lab02.dll
+D:\Github\ISpace-OOP-36Mya\Lab02\obj\Debug\net8.0\Lab02.pdb
+D:\Github\ISpace-OOP-36Mya\Lab02\obj\Debug\net8.0\Lab02.genruntimeconfig.cache
+D:\Github\ISpace-OOP-36Mya\Lab02\obj\Debug\net8.0\ref\Lab02.dll
