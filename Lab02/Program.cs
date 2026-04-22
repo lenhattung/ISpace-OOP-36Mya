@@ -1,7 +1,9 @@
-﻿public class Program
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+public class Program
 {
-    public static void Main()
-    {
+    public static void Main() {
+        /*
         Console.WriteLine("Hello World!");
 
         // LAB -02
@@ -93,6 +95,28 @@
         Console.WriteLine($"{now:dddd, MMMM dd, yyyy}");    // Monday, April 20, 2026
         Console.WriteLine($"{now:t}");                       // short time
         Console.WriteLine($"{now:D}");                       // long date
+        */
+
+        Console.Write("Enter your name: ");
+        string name = Console.ReadLine();
+
+        Console.WriteLine($"Hello, {name}");
+
+        Console.Write("Enter your age: ");
+        bool success = int.TryParse(Console.ReadLine(), out int age);
+        if (success)
+        {
+            Console.WriteLine($"You are {age} years old.");
+        }
+        else
+        {
+            Console.WriteLine("Invalid input. Please enter a number.");
+        }
+
+        Console.Write("Enter a price: ");
+        double price = double.Parse(Console.ReadLine());
+
+        Console.WriteLine($"Age: {age}, Price: {price:N2}");
 
     }
 
