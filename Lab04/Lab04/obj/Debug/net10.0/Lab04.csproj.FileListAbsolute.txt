@@ -1,0 +1,15 @@
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\bin\Debug\net10.0\Lab04.exe
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\bin\Debug\net10.0\Lab04.deps.json
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\bin\Debug\net10.0\Lab04.runtimeconfig.json
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\bin\Debug\net10.0\Lab04.dll
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\bin\Debug\net10.0\Lab04.pdb
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\obj\Debug\net10.0\Lab04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\obj\Debug\net10.0\Lab04.AssemblyInfoInputs.cache
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\obj\Debug\net10.0\Lab04.AssemblyInfo.cs
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\obj\Debug\net10.0\Lab04.csproj.CoreCompileInputs.cache
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\obj\Debug\net10.0\Lab04.sourcelink.json
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\obj\Debug\net10.0\Lab04.dll
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\obj\Debug\net10.0\refint\Lab04.dll
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\obj\Debug\net10.0\Lab04.pdb
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\obj\Debug\net10.0\Lab04.genruntimeconfig.cache
+D:\Github\ISpace-OOP-36Mya\Lab04\Lab04\obj\Debug\net10.0\ref\Lab04.dll
