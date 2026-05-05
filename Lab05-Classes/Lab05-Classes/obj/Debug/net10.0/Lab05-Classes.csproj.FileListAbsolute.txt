@@ -1,0 +1,15 @@
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\bin\Debug\net10.0\Lab05-Classes.exe
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\bin\Debug\net10.0\Lab05-Classes.deps.json
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\bin\Debug\net10.0\Lab05-Classes.runtimeconfig.json
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\bin\Debug\net10.0\Lab05-Classes.dll
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\bin\Debug\net10.0\Lab05-Classes.pdb
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\obj\Debug\net10.0\Lab05-Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\obj\Debug\net10.0\Lab05-Classes.AssemblyInfoInputs.cache
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\obj\Debug\net10.0\Lab05-Classes.AssemblyInfo.cs
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\obj\Debug\net10.0\Lab05-Classes.csproj.CoreCompileInputs.cache
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\obj\Debug\net10.0\Lab05-Classes.sourcelink.json
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\obj\Debug\net10.0\Lab05-Classes.dll
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\obj\Debug\net10.0\refint\Lab05-Classes.dll
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\obj\Debug\net10.0\Lab05-Classes.pdb
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\obj\Debug\net10.0\Lab05-Classes.genruntimeconfig.cache
+D:\Github\ISpace-OOP-36Mya\Lab05-Classes\Lab05-Classes\obj\Debug\net10.0\ref\Lab05-Classes.dll
