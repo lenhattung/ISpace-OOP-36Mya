@@ -33,6 +33,8 @@ public class Program
 
         */
 
+        /*
+
         StudentV2 student = new StudentV2();
         Console.WriteLine(student.Name); // => call get
         student.Name = "ABC"; // call => set
@@ -50,7 +52,30 @@ public class Program
         Console.WriteLine("\n\n");
         student.BirthYear = 2020;
         student.Display(); // => birthYear = 2020
+        */
 
+        BankAccount myAccount = new BankAccount("123-456-789", "Le Nhat Tung", 1000);
+
+        // Print info
+        Console.WriteLine($"Account: {myAccount.AccountNumber}");
+        Console.WriteLine($"Owner: {myAccount.OwnerName}");
+        Console.WriteLine($"Balance: {myAccount.Balance}\n");
+
+
+        // Try a valid depost
+        myAccount.Deposit(500);
+
+        // Try an invalid deposit (negative amount)
+        myAccount.Deposit(-50); // Will print Error
+
+        // Try a valid withdrawal
+        myAccount.Withdraw(200);
+
+        // Try a withdrawal exceeding balance
+        myAccount.Withdraw(2000); // Will print Insufficient funds
+
+        // 1300
+        Console.WriteLine($"Balance after deposit and withdraw: {myAccount.Balance}\n");
     }
 
 }
