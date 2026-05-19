@@ -1,0 +1,15 @@
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\bin\Debug\net10.0\Lab07-Polimorphism.exe
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\bin\Debug\net10.0\Lab07-Polimorphism.deps.json
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\bin\Debug\net10.0\Lab07-Polimorphism.runtimeconfig.json
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\bin\Debug\net10.0\Lab07-Polimorphism.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\bin\Debug\net10.0\Lab07-Polimorphism.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\obj\Debug\net10.0\Lab07-Polimorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\obj\Debug\net10.0\Lab07-Polimorphism.AssemblyInfoInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\obj\Debug\net10.0\Lab07-Polimorphism.AssemblyInfo.cs
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\obj\Debug\net10.0\Lab07-Polimorphism.csproj.CoreCompileInputs.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\obj\Debug\net10.0\Lab07-Polimorphism.sourcelink.json
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\obj\Debug\net10.0\Lab07-Polimorphism.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\obj\Debug\net10.0\refint\Lab07-Polimorphism.dll
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\obj\Debug\net10.0\Lab07-Polimorphism.pdb
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\obj\Debug\net10.0\Lab07-Polimorphism.genruntimeconfig.cache
+C:\Users\Le Nhat Tung\Documents\GitHub\ISpace-OOP-36Mya\Lab07-Polimorphism\Lab07-Polimorphism\obj\Debug\net10.0\ref\Lab07-Polimorphism.dll
