@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Lab07-Polimorphism.csproj",
-      "projectName": "Lab07-Polimorphism",
-      "projectPath": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Lab07-Polimorphism.csproj",
+      "projectUniqueName": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Lab07-Polymorphism.csproj",
+      "projectName": "Lab07-Polymorphism",
+      "projectPath": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Lab07-Polymorphism.csproj",
       "packagesPath": "C:\\Users\\Le Nhat Tung\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\obj\\",
       "projectStyle": "PackageReference",

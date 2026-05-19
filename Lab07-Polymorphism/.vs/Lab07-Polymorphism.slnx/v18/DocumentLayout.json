@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB16C3F-BEF9-4C68-96DD-7FC995DE9EB7}|Lab07-Polimorphism\\Lab07-Polymorphism.csproj|c:\\users\\le nhat tung\\documents\\github\\ispace-oop-36mya\\lab07-polimorphism\\lab07-polimorphism\\lab07-polymorphism.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EB16C3F-BEF9-4C68-96DD-7FC995DE9EB7}|Lab07-Polimorphism\\Lab07-Polymorphism.csproj|solutionrelative:lab07-polimorphism\\lab07-polymorphism.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB16C3F-BEF9-4C68-96DD-7FC995DE9EB7}|Lab07-Polimorphism\\Lab07-Polimorphism.csproj|c:\\users\\le nhat tung\\documents\\github\\ispace-oop-36mya\\lab07-polimorphism\\lab07-polimorphism\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB16C3F-BEF9-4C68-96DD-7FC995DE9EB7}|Lab07-Polimorphism\\Lab07-Polimorphism.csproj|solutionrelative:lab07-polimorphism\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB16C3F-BEF9-4C68-96DD-7FC995DE9EB7}|Lab07-Polimorphism\\Lab07-Polimorphism.csproj|c:\\users\\le nhat tung\\documents\\github\\ispace-oop-36mya\\lab07-polimorphism\\lab07-polimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB16C3F-BEF9-4C68-96DD-7FC995DE9EB7}|Lab07-Polimorphism\\Lab07-Polimorphism.csproj|solutionrelative:lab07-polimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB16C3F-BEF9-4C68-96DD-7FC995DE9EB7}|Lab07-Polimorphism\\Lab07-Polimorphism.csproj|c:\\users\\le nhat tung\\documents\\github\\ispace-oop-36mya\\lab07-polimorphism\\lab07-polimorphism\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB16C3F-BEF9-4C68-96DD-7FC995DE9EB7}|Lab07-Polimorphism\\Lab07-Polimorphism.csproj|solutionrelative:lab07-polimorphism\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB16C3F-BEF9-4C68-96DD-7FC995DE9EB7}|Lab07-Polimorphism\\Lab07-Polimorphism.csproj|c:\\users\\le nhat tung\\documents\\github\\ispace-oop-36mya\\lab07-polimorphism\\lab07-polimorphism\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB16C3F-BEF9-4C68-96DD-7FC995DE9EB7}|Lab07-Polimorphism\\Lab07-Polimorphism.csproj|solutionrelative:lab07-polimorphism\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB16C3F-BEF9-4C68-96DD-7FC995DE9EB7}|Lab07-Polimorphism\\Lab07-Polimorphism.csproj|c:\\users\\le nhat tung\\documents\\github\\ispace-oop-36mya\\lab07-polimorphism\\lab07-polimorphism\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB16C3F-BEF9-4C68-96DD-7FC995DE9EB7}|Lab07-Polimorphism\\Lab07-Polimorphism.csproj|solutionrelative:lab07-polimorphism\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab07-Polymorphism.csproj",
+              "DocumentMoniker": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Lab07-Polymorphism.csproj",
+              "RelativeDocumentMoniker": "Lab07-Polimorphism\\Lab07-Polymorphism.csproj",
+              "ToolTip": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Lab07-Polymorphism.csproj",
+              "RelativeToolTip": "Lab07-Polimorphism\\Lab07-Polymorphism.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-19T02:01:20.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Triangle.cs",
+              "RelativeDocumentMoniker": "Lab07-Polimorphism\\Triangle.cs",
+              "ToolTip": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Triangle.cs",
+              "RelativeToolTip": "Lab07-Polimorphism\\Triangle.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:51:55.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Circle.cs",
+              "RelativeDocumentMoniker": "Lab07-Polimorphism\\Circle.cs",
+              "ToolTip": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Circle.cs",
+              "RelativeToolTip": "Lab07-Polimorphism\\Circle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:50:05.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Lab07-Polimorphism\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Rectangle.cs",
+              "RelativeToolTip": "Lab07-Polimorphism\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:46:26.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Shape.cs",
+              "RelativeDocumentMoniker": "Lab07-Polimorphism\\Shape.cs",
+              "ToolTip": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Shape.cs",
+              "RelativeToolTip": "Lab07-Polimorphism\\Shape.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:41:38.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07-Polimorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\Le Nhat Tung\\Documents\\GitHub\\ISpace-OOP-36Mya\\Lab07-Polimorphism\\Lab07-Polimorphism\\Program.cs",
+              "RelativeToolTip": "Lab07-Polimorphism\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T01:40:45.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
